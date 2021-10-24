@@ -1,0 +1,15 @@
+.wrapper{
+text-align: center;
+align-items: center;
+margin: auto;
+}
+.area{
+margin: 20px auto  ;
+background-color: blueviolet;
+display: flex;
+align-items: center;
+text-align: center;
+justify-content: center;
+width: 70vw;
+height: 40vh;
+}

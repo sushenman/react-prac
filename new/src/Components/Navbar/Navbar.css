@@ -1,0 +1,24 @@
+.navbar{
+    width: 100%;
+    min-height: 6vh;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #eee;
+    transition: all .7s ease-in;
+  }
+
+  .scrolled{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: lightblue;
+  }
+  .navigation ul{
+      display: flex;  justify-content: space-around;
+     
+  }
+  .navigation li{
+    justify-content: space-around;
+  }

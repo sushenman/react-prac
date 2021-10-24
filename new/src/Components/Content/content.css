@@ -1,0 +1,16 @@
+.wrap{
+    background-color:plum;
+    margin:2rem 10% 0 10%;
+}
+.content{
+    width: 80%;
+    margin:2rem 10% 0 10%;
+    max-width: 100%;
+    box-sizing: border-box;
+    
+}
+.box{
+    width:80%;
+   text-align: center;
+    
+}
